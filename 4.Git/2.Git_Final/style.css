@@ -1,0 +1,18 @@
+h1{
+    color:rgba(255, 230, 0, 0.685);
+    background-color: blue;
+    padding: 20px;
+    margin: 0%;
+}
+
+.items{
+    font: 2em sans-serif;
+}
+
+#important{
+    color:red;
+}
+
+.buying{
+    border: 5px solid red;
+}
